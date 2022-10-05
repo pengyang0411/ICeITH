@@ -1,4 +1,6 @@
 # ICeITH
+
+Immune cell type decomposition reveals intratumor heterogeneity
  
 ## Installation
 
