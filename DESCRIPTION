@@ -1,0 +1,20 @@
+Package: ICeITH
+Type: Package
+Title: Immune cell type decomposition reveals intratumor heterogeneity
+Version: 0.1.0
+Author: Peng Yang, Ziyi Li
+Maintainer: Peng Yang <py11@rice.edu>
+Description: This package is designed to infer relative cell type abundance and 
+       its variability across bulk tumor samples obtained from a multi-region 
+       sequencing design. ICeITH is a reference-based deconvolution method and 
+       it overcomes the limitations of current methods by modeling a 
+       patient-specific mean expression to account for the heterogeneity 
+       of gene expressions introduced from multi-region sequencing design. 
+       In addition, ICeITH measures the intratumor heterogeneity by quantifying 
+       the variability of targeted cellular composition and it potentially 
+       reveals the relation with the risk of patients' survival.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
+Imports: e1071
