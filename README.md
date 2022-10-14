@@ -1,4 +1,4 @@
-# Immunce Cell-Type Estimation Reveals Intratumor heterogeneity
+# Immune Cell-Type Estimation Reveals Intratumor heterogeneity
 
 ## Description
 
