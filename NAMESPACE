@@ -2,5 +2,7 @@
 
 export(ICeITH)
 export(refEst)
+export(sim_func)
 export(update_Allpara)
+importFrom(gtools,rdirichlet)
 importFrom(stats,optim)
