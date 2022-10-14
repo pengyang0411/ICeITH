@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# Immunce Cell-Type Estimation Reveals Intratumor heterogeneity
+
 ## Description
 
 This package is designed to infer relative cell type abundance and its
