@@ -91,11 +91,12 @@ res_All = ICeITH(Y = simData$Y,            ## Multi-region gene expression data
 
     ## Loading required namespace: e1071
 
-    ## Iteration: 1  objective value:  -241177.1 
-    ## Iteration: 2  objective value:  -237713.6 
-    ## Iteration: 3  objective value:  -237628.9 
-    ## Iteration: 4  objective value:  -237625.5 
-    ## Iteration: 5  objective value:  -237625.5 
+    ## Iteration: 1  objective value:  -219259.3 
+    ## Iteration: 2  objective value:  -218267.3 
+    ## Iteration: 3  objective value:  -218261.6 
+    ## Iteration: 4  objective value:  -218242.3 
+    ## Iteration: 5  objective value:  -218242.3 
+    ## Iteration: 6  objective value:  -218242.3 
     ## Converged
 
 The estimated relative cell-type abundance are displayed:
@@ -106,3 +107,10 @@ The estimated relative cell-type abundance are displayed:
 Peng Yang ([py11@rice.edu](mailto:py11@rice))
 
 ## Citation
+
+Peng Yang, Shawna M. Hubert, P. Andrew Futreal, Xingzhi Song, Jianhua
+Zhang, J. Jack Lee, Ignacio Wistuba, Ying Yuan, Jianjun Zhang, Ziyi Li.
+“A novel Bayesian model for assessing intratumor heterogeneity of tumor
+infiltrating leukocytes with multiregion gene expression sequencing.”
+The Annals of Applied Statistics, 18(3) 1879-1898 September 2024.
+<https://doi.org/10.1214/23-AOAS1862>.

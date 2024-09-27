@@ -119,6 +119,9 @@ Peng Yang ([py11@rice.edu](mailto:py11@rice))
 
 ## Citation
 
-
+Peng Yang, Shawna M. Hubert, P. Andrew Futreal, Xingzhi Song, Jianhua Zhang, J. Jack Lee, Ignacio
+Wistuba, Ying Yuan, Jianjun Zhang, Ziyi Li. "A novel Bayesian model for assessing intratumor heterogeneity
+of tumor infiltrating leukocytes with multiregion gene expression sequencing." The Annals of Applied
+Statistics, 18(3) 1879-1898 September 2024. https://doi.org/10.1214/23-AOAS1862.
 
 
