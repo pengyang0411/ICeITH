@@ -12,9 +12,7 @@ addition, ICeITH measures the intratumor heterogeneity by quantifying
 the variability of targeted cellular composition and it potentially
 reveals the relation with the risk of patients’ survival.
 
-```{r, echo=FALSE}
-knitr::include_graphics("README_files/ICeITH.png", dpi = 96)
-```
+![ICeITH](https://github.com/user-attachments/assets/7fdc63d2-e09d-4344-b37f-ae3194a6278e)
 
 ## Installation
 
